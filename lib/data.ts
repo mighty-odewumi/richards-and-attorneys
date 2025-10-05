@@ -2,7 +2,7 @@
 export const firmData = {
   name: "AT RICHARD'S & ATTORNEYS",
   tagline: "Excellence in Legal Representation",
-  phone: "+1-321-441-4500",
+  phone: "+1-213-398-9798",
   email: "parichardgonzalez01@gmail.com",
   address: {
     street: "4770 Biscayne Boulevard, Suite 1110",
